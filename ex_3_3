@@ -1,0 +1,2 @@
+try:
+    grade = input("Enter Grades")
